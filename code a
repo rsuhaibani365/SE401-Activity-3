@@ -1,0 +1,9 @@
+public class Calculator {
+public static void main(String[] args) {
+Int add add1=new add(system.in);
+int result = add1(5, 10);
+System.out.println("Result: " + result); }
+public static int add(int a, int b) {
+int sum = a + b;
+return sum; }
+}
